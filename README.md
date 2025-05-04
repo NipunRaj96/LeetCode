@@ -3,12 +3,12 @@
 Welcome to my LeetCode grind repo!  
 This is where I post my hand-written Java solutions to problems on LeetCode.
 
-📍 **LeetCode ID**: nipunraj96   
+📍 **LeetCode ID**: [nipunraj96   ](https://leetcode.com/u/NipunRaj96/)
 📍 **Language**: Java (mostly) , python
 
 ---
 
-## 🎯 Why This Repo?mvdklmvlxslvsdlvnslv
+## 🎯 Why This Repo?
 
 I'm using this repository to:
 - Sharpen my DSA & problem-solving skills
